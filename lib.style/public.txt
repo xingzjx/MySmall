@@ -1,0 +1,1 @@
+int color colorPrimary 0x79020000
